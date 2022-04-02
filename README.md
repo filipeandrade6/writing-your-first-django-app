@@ -1,4 +1,4 @@
-#### [Create your first Django app]](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
+#### [Create your first Django app](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)
 
 - [x] part 1
 - [x] part 2
